@@ -48,4 +48,5 @@ SUMMARY:${PN}-system = "OpenPOWER System"
 RDEPENDS:${PN}-system = " \
         pdbg \
         croserver \
+	ipmitool
         "
